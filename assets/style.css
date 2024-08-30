@@ -39,8 +39,7 @@ body {
     border: none;
     background-color: #23212E;
     margin: 0;
-    border-top-right-radius: 25px;
-    border-bottom-right-radius: 25px;
+    
     padding: .8rem 1rem;
     margin-left: -1.9%;
 }
